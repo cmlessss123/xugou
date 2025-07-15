@@ -7,7 +7,7 @@ minify = true # 生产环境压缩代码
 
 # 设置自定义域名
 routes = [
-  { pattern = "cfnezha.mailvip.dpdns.org", custom_domain = true },
+  { pattern = "cfnezha.mailvip.dpdns.org", custom_domain = true }
 
 ]
 
