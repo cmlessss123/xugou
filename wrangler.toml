@@ -7,8 +7,8 @@ minify = true # 生产环境压缩代码
 
 # 设置自定义域名
 routes = [
-  { pattern = "nezha.mailvip.dpdns.org", custom_domain = true },
-  { pattern = "nezha.mailvip.dpdns.org", custom_domain = true }
+  { pattern = "cfnezha.mailvip.dpdns.org", custom_domain = true },
+
 ]
 
 # 添加定时触发器，每分钟执行一次监控检查
